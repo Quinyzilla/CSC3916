@@ -1,1 +1,23 @@
-testing
+GET request 
+Description: To retrieve and request data
+
+POST request
+Description: To create and update data
+
+PUT request
+Description: To update data
+
+DELETE request
+Description: For deleting data
+
+URL request
+Description: Enter URL for HTTP request
+
+HEADERS request
+Description: Enter key value for application. Included content-type (Format the data such as JSON format) and authorization (information included to identify the requester).
+
+200 Response
+Description: Successful request
+
+400 Response
+Description: Unsuccessful request
