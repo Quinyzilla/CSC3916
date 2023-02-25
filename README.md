@@ -67,4 +67,4 @@ var allIssuesAreClosed = issues.every(function(issue) {
 tests["All issues are closed"] = allIssuesAreClosed;  
 ```
 
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/25652319-9fc3405b-df1c-49a0-b017-63db635b793d?action=collection%2Ffork&collection-url=entityId%3D25652319-9fc3405b-df1c-49a0-b017-63db635b793d%26entityType%3Dcollection%26workspaceId%3D78718e5a-c7fb-4041-8b47-65ef6db9f5bb#?env%5BAssignment0%5D=W3sia2V5IjoiYm9va190aXRsZSIsInZhbHVlIjoiVHVyaW5nIiwiZW5hYmxlZCI6dHJ1ZSwidHlwZSI6ImRlZmF1bHQiLCJzZXNzaW9uVmFsdWUiOiJUdXJpbmciLCJzZXNzaW9uSW5kZXgiOjB9LHsia2V5IjoiaWQiLCJ2YWx1ZSI6IiIsImVuYWJsZWQiOnRydWUsInR5cGUiOiJhbnkiLCJzZXNzaW9uVmFsdWUiOiI0bXVZRHdBQVFCQUoiLCJzZXNzaW9uSW5kZXgiOjF9XQ==)
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/25652319-9fc3405b-df1c-49a0-b017-63db635b793d?action=collection%2Ffork&collection-url=entityId%3D25652319-9fc3405b-df1c-49a0-b017-63db635b793d%26entityType%3Dcollection%26workspaceId%3D78718e5a-c7fb-4041-8b47-65ef6db9f5bb)
